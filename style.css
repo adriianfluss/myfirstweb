@@ -1,5 +1,5 @@
 body {
-background-color: red;
+background-color:  #fffffc ;
 margin: 0;
 }
 
@@ -17,6 +17,12 @@ Comentario:
                        'footer footer footer footer footer footer';
   grid-gap: 10px;
 }
+
+.centrado{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 #header { grid-area: header; }
 #right { grid-area: right; }
